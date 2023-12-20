@@ -1,7 +1,13 @@
 # Sentiment-Analysis
 Sentiment Analysis for PDC
 
-path
-*polarity textblob api
-*meta ai api 
-*LSTM Model for machine learning using tensorflow keras and flask as a web framework.
+FLOW:
+- Login using twitter, import "for you" tweets from user's account. (Landing Page)
+- Run Analysis (Run and Result Page)
+  
+TO DO:
+- Landing Page ❌
+- Run and Result Page ❌
+- About Us Page ❌
+- Acknowledgement Page ❌
+
